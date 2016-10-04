@@ -1,7 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h> 
-// A utility function to swap two elements
+// A utility function to swap two elements http://www.geeksforgeeks.org/iterative-quick-sort/
 void swap ( int* a, int* b )
 {
     int t = *a;
