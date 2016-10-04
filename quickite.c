@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-//algoritmo retirado de https://www.vivaolinux.com.br/script/Ordenacao-QuickSort
+//algoritmo retirado de http://www.geeksforgeeks.org/iterative-quick-sort/
 
 void Quick(int *vetor, int inicio, int fim){
 
